@@ -4,14 +4,20 @@ Meu Portifólio
 
 Projeto criado em live com os Gemeos do canal @Devemdobro
 
-🕹️ Projeto Marvel
-Aplicativo criado no Mapa Dev Week do Dev em Dobro
+<h1 align="center">🕹️ Projeto Marvel</h1>
+<p align="center">
+  <strong>Aplicativo criado no Mapa Dev Week do Dev em Dobro</strong>
+</p>
 
+<p align="center">
+  <img src="assets/img/README.png" alt="">
+</p>
 
+### Site 💻
 
-Site 💻
-Projeto Marvel
-Linguagens: 🚀
-HTML
-CSS
-JS
+- [Projeto Marvel](https://arcade-marvel.netlify.app)
+
+## Linguagens: 🚀
+- HTML
+- CSS
+- JS
