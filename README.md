@@ -10,8 +10,8 @@ Projeto criado em live com os Gemeos do canal @Devemdobro
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="./src/img/README.png" alt="">
-  <img src="./"   >
 </p>
 
 ### Site 💻
